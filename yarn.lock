@@ -621,20 +621,20 @@
   dependencies:
     iterare "1.1.2"
 
-"@ngrx/effects@8.0.0-beta.2":
-  version "8.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/@ngrx/effects/-/effects-8.0.0-beta.2.tgz#6dbfefb2181753d0698c72799aa8b85bc9ed5e9e"
-  integrity sha512-oZI3Iuv91WlMmbgMrpsheDMVzA8XnnIzrxgrvKUVPdDq8CTCOI46m5c/gesJqi5uBQ7RH5tsSNMcjzZWqKl4uQ==
+"@ngrx/effects@8.3.0":
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/effects/-/effects-8.3.0.tgz#d99a777ab352d4efdf456a7dec307514187ba496"
+  integrity sha512-/DdBqCFpHOJZUAmIpefQ8EVwmJXXkcEdLhsV8aXncCNWkK61sy/MbZZfDAbee6Cd1is33bVXRUKD49Z+Upvw5A==
 
-"@ngrx/router-store@8.0.0-beta.2":
-  version "8.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/@ngrx/router-store/-/router-store-8.0.0-beta.2.tgz#85787bbb9c0908bcc5e9baf2dde132e513e47ce1"
-  integrity sha512-+GYQD8G3GIxGSEko1YEE3g//ezfD028FVCWVtIyw3mMX2yNPrxJscRqw3BFDwMvE0kUT3a2EEeWJ12KfIIwpmQ==
+"@ngrx/router-store@8.3.0":
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/router-store/-/router-store-8.3.0.tgz#18462b7901843b3ab212459ffbd6cfe2b71e87e4"
+  integrity sha512-wIWGW3ZyT9+lJEBXVsPx1/NLFQ8KoCbhlEmpmQHniXE3iIMnK25Or2JCNXfgrndQA9SSVlKIPP3uaDJMyoBotQ==
 
-"@ngrx/store@8.0.0-beta.2":
-  version "8.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-8.0.0-beta.2.tgz#a5a03681fc689dc5bcb85dfbf660aa546a70b583"
-  integrity sha512-a7idMkU9DKzUPigtby+X5ipQ6ACMqsE/1TNM5jlwXxZqTht2VzwxMxGQTBXYWgI57lTb34YPgbInULqJOiJ4/w==
+"@ngrx/store@8.3.0":
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-8.3.0.tgz#f2eaf428ec9e8379801cc37e3f6bffe88c2af472"
+  integrity sha512-QtM5T6/wTYqAlqeW60ptqqrsBwYF7jvQHsh0yE3AnwZIQvSbLFM2t5S2kN+753v4rHiXVRrA5pLaLzjGhAKcSg==
 
 "@ngtools/webpack@7.3.9":
   version "7.3.9"
